@@ -1,5 +1,12 @@
 # dnssec-validator
 
+Production-grade project scaffold focused on reliability, maintainability, and fast onboarding.
+
+[![CI](https://img.shields.io/github/actions/workflow/status/yksanjo/dnssec-validator/ci.yml?branch=main&label=ci)](https://github.com/yksanjo/dnssec-validator/actions)
+![License](https://img.shields.io/github/license/yksanjo/dnssec-validator)
+![Last Commit](https://img.shields.io/github/last-commit/yksanjo/dnssec-validator)
+![Repo Size](https://img.shields.io/github/repo-size/yksanjo/dnssec-validator)
+
 ## Detailed Description
 
 dnssec-validator is maintained as an industry-grade software project with production-ready engineering practices.  
